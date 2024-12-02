@@ -67,7 +67,8 @@ function Board({ size = 4 }) {
           className={`card ${card.flipped || card.matched ? 'flipped' : ''}`}
           onClick={() => handleCardClick(card)}
         >
-          {card.flipped || card.matched ? card.value : ''}
+          <div className="card-front"></div>
+          <div className="card-back">{card.value}</div>
         </div>
       ))}
     </div>
