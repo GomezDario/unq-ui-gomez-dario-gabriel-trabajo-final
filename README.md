@@ -1,3 +1,9 @@
+Trabajo final integrador UI - Dario Gabriel Gomez
+
+## Descripción del proyecto
+
+El proyecto consiste en una implementación del juego de Memotest en React.
+
 # unq-ui-gomez-dario-gabriel-trabajo-final
 
 ## Como levantar el proyecto
@@ -35,4 +41,5 @@
    - Dirigite a la URL [http://localhost:5173/](http://localhost:5173/).
 
 8. **Disfrutar del juego!**
+
 
